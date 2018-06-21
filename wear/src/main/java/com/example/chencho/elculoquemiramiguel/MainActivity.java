@@ -16,6 +16,7 @@ public class MainActivity extends WearableActivity {
         mTextView = (TextView) findViewById(R.id.text);
 
         // Enables Always-on
+        //mocoocodoodd
         setAmbientEnabled();
     }
 }
